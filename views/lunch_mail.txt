@@ -1,0 +1,20 @@
+Hallo liebe Mysteryluncher,
+
+das Glück ist euch heute hold!
+
+Der einarmige Lunch-Bandit hat euch {{ size }} heute zu Lunchpartnern gekürt.
+
+Ihr seid:
+
+{{#participants}}
+* {{first_name}} {{last_name}} <{{email}}>
+{{/participants}}
+
+Verabreden dürft ihr euch selber :)
+
+Wir wünschen Euch viel Spaß!
+
+Euer Mysterylunch-Team,
+Vreni, Tom und Robert
+
+Tipp: Antworten auf diese Mail gehen an euch alle ;)
